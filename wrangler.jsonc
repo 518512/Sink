@@ -24,7 +24,7 @@
   "kv_namespaces": [
     {
       "binding": "KV",
-      "id": "ef93d42dc4b34969bab404d2e80f8dd3" // IMPORTANT: Change this to your KV namespace ID
+      "id": "f8a6b6aeea2349518314e3b1592b30d5" // IMPORTANT: Change this to your KV namespace ID
     }
   ]
 }
