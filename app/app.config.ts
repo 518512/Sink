@@ -1,5 +1,5 @@
 export default defineAppConfig({
-  title: 'Sink',
+  title: '短链',
   email: 'sink.cool@miantiao.me',
   github: 'https://github.com/miantiao-me/sink',
   twitter: 'https://sink.cool/kai',
